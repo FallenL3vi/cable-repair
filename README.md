@@ -1,4 +1,3 @@
 # cable-repair
-Old project
+An old project to learn c++
 A simple console based game
-#Learning C++
